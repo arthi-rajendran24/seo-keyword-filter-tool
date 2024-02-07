@@ -2,8 +2,8 @@ import streamlit as st
 from sentence_transformers import SentenceTransformer, util
 import pandas as pd
 import torch
-import zcatalyst_sdk
-from zcatalyst_sdk.catalyst_app import CatalystApp
+#import zcatalyst_sdk
+#from zcatalyst_sdk.catalyst_app import CatalystApp
 
 # Streamlit app layout
 st.title("Keyword Filter Tool")
