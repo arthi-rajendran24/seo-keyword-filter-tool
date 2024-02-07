@@ -1,0 +1,4 @@
+streamlit~=1.31.0
+sentence-transformers~=2.3.1
+pandas~=2.2.0
+torch~=2.2.0
